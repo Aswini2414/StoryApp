@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitles">
+        <item>Krishna in Sudama’s village</item>
+        <item>Krishna meets Sudama</item>
+        <item>Kamsa locates his enemy</item>
+        <item>Whirlwind strikes Gokula</item>
+        <item>Pootana in Gokula</item>
+        <item>Pootana, the baby killer</item>
+        <item>A Diwali story</item>
+        <item>Yogamaya warns Kamsa</item>
+        <item>Celebrations in Gokula</item>
+        <item>The birth of Krishna</item>
+        <item>Krishna reaches Gokula</item>
+
+    </string-array>
+</resources>

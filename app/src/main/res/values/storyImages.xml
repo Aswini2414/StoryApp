@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyImages">
+        <item>https://kathakids.com/static/story-images/2019/03/krishna_sudama_village-1160x619.jpg</item>
+        <item>https://kathakids.com/static/story-images/2019/03/krishna_meets_sudama-800x427.jpg</item>
+        <item>https://kathakids.com/static/story-images/2019/07/Kamsa_locates_his_enemy_kk-800x500.jpg</item>
+        <item>https://kathakids.com/static/story-images/2019/07/Whirlwind_strikes_Gokula_kk-800x500.jpg</item>
+        <item>https://kathakids.com/static/story-images/2019/07/putana_2_kk-800x500.jpg</item>
+        <item>https://kathakids.com/static/story-images/2019/07/putana1_kk-800x500.jpg</item>
+        <item>https://kathakids.com/static/story-images/2019/07/krishna-and-narakasura-800x484.jpg</item>
+        <item>https://kathakids.com/static/story-images/2019/07/Krishna3_Yogmaya-800x500.jpg</item>
+        <item>https://kathakids.com/static/story-images/2019/07/Krishna4_celebatGokula-800x500.jpg</item>
+        <item>https://kathakids.com/static/story-images/2019/03/birth_of_krishna-800x427.jpg</item>
+        <item>https://kathakids.com/static/story-images/2019/03/krishna_taken_gokula-260x140.jpg</item>
+    </string-array>
+    
+</resources>
